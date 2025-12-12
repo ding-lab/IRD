@@ -1,0 +1,2 @@
+mip segment-ome --input-tif 08272025_slide1.ome.tiff --output-prefix 08272025_slide1 --nuclei-channels "DAPI" --membrane-channels "CD3e,CD14,CD11b,CD68 (D),CD74,HLA-DR,CD20,CD79a,CD34,Vimentin,CD38,CD138" --split-size 10000
+mip segment-ome --input-tif 08272025_slide2.ome.tiff --output-prefix 08272025_slide2 --nuclei-channels "DAPI" --membrane-channels "CD3e,CD14,CD11b,CD68 (D),CD74,HLA-DR,CD20,CD79a,CD34,Vimentin,CD38,CD138" --split-size 10000
